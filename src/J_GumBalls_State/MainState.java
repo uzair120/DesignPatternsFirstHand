@@ -3,7 +3,7 @@ package J_GumBalls_State;
 import J_GumBalls_State.core.GumballMachine;
 
 public class MainState {
-    public static void execute(){
+    public static void execute() {
         GumballMachine gumballMachine = new GumballMachine(5);
         //1
         gumballMachine.insertQuarter();

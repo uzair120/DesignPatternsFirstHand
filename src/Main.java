@@ -1,9 +1,6 @@
-import I1_Restaurant_Iterator.MainRestaurantIterator;
-import I2_Restaurant_Composite.MainRestaurantComposite;
-import J_GumBalls_State.MainState;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
 
 //        DuckMain.execute();
 //
@@ -29,5 +26,11 @@ public class Main {
 //        MainRestaurantComposite.execute();
 
 //        MainState.execute();
+
+//        MainImageProxy.execute();
+
+//        DuckSimulator.execute();
+//        DuckSimulatorFactory.execute();
+//        DuckSimulatorObserver.execute();
     }
 }

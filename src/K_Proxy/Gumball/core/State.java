@@ -1,6 +1,8 @@
-package J_GumBalls_State.core;
+package K_Proxy.Gumball.core;
 
-public interface State {
+import java.io.Serializable;
+
+public interface State extends Serializable {
     void insertQuarter();
 
     void ejectQuarter();

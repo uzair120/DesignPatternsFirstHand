@@ -1,4 +1,4 @@
-package J_GumBalls_State.core;
+package K_Proxy.Gumball.core;
 
 public class WinnerState implements State {
     GumballMachine gumballMachine;

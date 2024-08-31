@@ -1,4 +1,4 @@
-package J_GumBalls_State.core;
+package K_Proxy.Gumball.core;
 
 import java.util.Random;
 
